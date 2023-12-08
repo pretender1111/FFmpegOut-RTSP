@@ -1,0 +1,2 @@
+# FFmpegOut-RTSP
+使用FFmpegOut插件，将Unity中的camera捕捉到的画面进行RTSP推流
